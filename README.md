@@ -33,19 +33,6 @@ Each chart and KPI helps identify patterns, outliers, and areas of improvement a
 - **Microsoft Excel (XLSB Format)**
 - Dummy data for simulation
 
-## 📂 Files
-
-## 📌 How to Use
-
-1. Clone or download the repository.
-2. Open the dataset in Excel if needed.
-3. View the `Sales_Dashboard.pdf` or open the Power BI file (if added) to explore visuals.
-4. Analyze trends and patterns for business insights.
-
----
-
-## 👤 Author
-
-- *Your Name*
-- *[Optional: Link to LinkedIn or Portfolio]*
+## Author
+Jidnyesh Chaudhari [Linkedin](https://www.linkedin.com/in/jidnyesh-chaudhari-6b98201bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnvKkR2coTZSJbBfx%2Bgkj7g%3D%3D)
 
